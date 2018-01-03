@@ -1,1 +1,0 @@
-# megadraft-image-gallery-plugin
